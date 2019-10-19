@@ -7,3 +7,5 @@ ___
 [openSuse Color palette](https://opensuse.herokuapp.com/colors)
 
 [Tons of tutorials on various subjects](https://www.javatpoint.com)
+
+[Tutorials on Web Security mostly in .NET Core](https://jasonwatmore.com)
