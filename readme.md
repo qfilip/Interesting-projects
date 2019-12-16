@@ -13,3 +13,4 @@ ___
 [F# webapi AspNetCore 2.2](https://codeburst.io/creating-a-f-data-layer-using-entity-framework-core-746ec17d49e5)
 
 [ASCII Text Generator](http://patorjk.com/software/taag/#p=display&f=Graffiti&t=Type%20Something%20)
+[Peek, gif recorder for GNU/Linux](https://software.opensuse.org/package/peek)
