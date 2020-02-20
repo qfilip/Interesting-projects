@@ -22,3 +22,8 @@ ___
 [Flavio](https://flaviocopes.com)
 
 [Clubmate](https://clubmate.fi)
+
+
+#### To read
+
+[Stop event firing, Angular](https://engineering.datorama.com/be-aware-of-the-debounce-decorator-6fb24a6d8d5)
