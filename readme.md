@@ -15,3 +15,10 @@ ___
 [ASCII Text Generator](http://patorjk.com/software/taag/#p=display&f=Graffiti&t=Type%20Something%20)
 
 [Peek, gif recorder for GNU/Linux](https://software.opensuse.org/package/peek)
+
+
+### Tutorial Sites
+
+[Flavio](https://flaviocopes.com)
+
+[Clubmate](https://clubmate.fi)
