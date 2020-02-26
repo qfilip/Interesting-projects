@@ -2,6 +2,8 @@
 ___
 ### A collection of interesting links
 
+[CQRS-EventSourcing demos](https://github.com/asc-lab/dotnet-cqrs-intro)
+
 [YouTube Converter](https://loader.to)
 
 [Bootstrap 386](https://github.com/kristopolous/BOOTSTRA.386)
