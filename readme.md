@@ -25,6 +25,8 @@ ___
 
 [Tutorials on Web Security mostly in .NET Core](https://jasonwatmore.com)
 
+[Reflection quick refresher](https://garywoodfine.com/get-c-classes-implementing-interface/)
+
 [F# webapi AspNetCore 2.2](https://codeburst.io/creating-a-f-data-layer-using-entity-framework-core-746ec17d49e5)
 
 [Tons of tutorials on various subjects](https://www.javatpoint.com)
