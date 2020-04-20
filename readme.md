@@ -14,6 +14,8 @@ ___
 
 [Peek, gif recorder for GNU/Linux](https://software.opensuse.org/package/peek)
 
+[Cool icon set](https://rvklein.me/proj/ideogramma/#showicon--num-frequency)
+
 
 ### Tutorial Sites
 
