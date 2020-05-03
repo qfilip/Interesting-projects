@@ -6,8 +6,6 @@ ___
 
 [YouTube Converter](https://loader.to)
 
-[Bootstrap 386](https://github.com/kristopolous/BOOTSTRA.386)
-
 [openSuse Color palette](https://opensuse.herokuapp.com/colors)
 
 [ASCII Text Generator](http://patorjk.com/software/taag/#p=display&f=Graffiti&t=Type%20Something%20)
@@ -15,6 +13,17 @@ ___
 [Peek, gif recorder for GNU/Linux](https://software.opensuse.org/package/peek)
 
 [Cool icon set](https://rvklein.me/proj/ideogramma/#showicon--num-frequency)
+
+
+### Crazy CSS frameworks
+
+[Skeuos](https://drasite.com/skeuos-css)
+
+[Bootstrap 386](https://github.com/kristopolous/BOOTSTRA.386)
+
+[NES CSS](https://nostalgic-css.github.io/NES.css/)
+
+[Win98](https://jdan.github.io/98.css/#button)
 
 
 ### Tutorial Sites
