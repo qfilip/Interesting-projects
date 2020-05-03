@@ -16,7 +16,6 @@ ___
 
 [Frontend Stuff](https://www.cssscript.com)
 
-
 ### Sane/Insane CSS frameworks
 
 [Skeuos](https://drasite.com/skeuos-css)
@@ -29,6 +28,11 @@ ___
 
 [Win98](https://jdan.github.io/98.css/#button)
 
+### Design helpers
+
+[Loading spinners](https://github.com/fernandoleonid/spinnerloader)
+
+[Checkboxes](https://github.com/hunzaboy/CSS-Checkbox-Library)
 
 ### Tutorial Sites
 
