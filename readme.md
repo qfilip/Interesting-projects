@@ -34,6 +34,8 @@ ___
 
 [Checkboxes](https://github.com/hunzaboy/CSS-Checkbox-Library)
 
+[Interactive Particles Generator](https://www.cssscript.com/ts-particles/)
+
 ### Tutorial Sites
 
 [Flavio](https://flaviocopes.com)
