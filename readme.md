@@ -1,5 +1,10 @@
 # Interesting Projects
 ___
+
+### Useful for dev
+
+[John Skeet DateTime Library](https://www.nodatime.org)
+
 ### A collection of interesting links
 
 [CQRS-EventSourcing demos](https://github.com/asc-lab/dotnet-cqrs-intro)
