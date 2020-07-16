@@ -62,3 +62,7 @@ ___
 [Stop event firing, Angular](https://engineering.datorama.com/be-aware-of-the-debounce-decorator-6fb24a6d8d5)
 
 [Fold functions](https://sidburn.github.io/blog/2017/03/19/understanding-fold)
+
+#### Misc
+
+[Bitmap generator](https://github.com/mxgmn/WaveFunctionCollapse)
