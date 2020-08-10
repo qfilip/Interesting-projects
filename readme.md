@@ -43,6 +43,8 @@ ___
 
 ### Tutorial Sites
 
+[Angular development](https://nx.dev/angular/tutorial/01-create-application)
+
 [Flavio](https://flaviocopes.com)
 
 [Clubmate](https://clubmate.fi)
