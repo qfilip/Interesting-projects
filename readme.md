@@ -5,6 +5,8 @@ ___
 
 [John Skeet DateTime Library](https://www.nodatime.org)
 
+[RamdaJs - Functional Js library](https://ramdajs.com)
+
 ### A collection of interesting links
 
 [CQRS-EventSourcing demos](https://github.com/asc-lab/dotnet-cqrs-intro)
