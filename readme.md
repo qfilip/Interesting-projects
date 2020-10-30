@@ -66,6 +66,7 @@ ___
 [Tons of tutorials on various subjects](https://www.javatpoint.com)
 
 #### To read
+[MS Azure Exams](https://docs.microsoft.com/en-us/learn/certifications/exams/az-204)
 
 [Stop event firing, Angular](https://engineering.datorama.com/be-aware-of-the-debounce-decorator-6fb24a6d8d5)
 
