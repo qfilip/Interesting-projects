@@ -72,6 +72,8 @@ ___
 
 [Fold functions](https://sidburn.github.io/blog/2017/03/19/understanding-fold)
 
+[Option Pattern C#](https://docs.microsoft.com/en-us/aspnet/core/fundamentals/configuration/options?view=aspnetcore-5.0)
+
 #### Misc
 
 [Bitmap generator](https://github.com/mxgmn/WaveFunctionCollapse)
