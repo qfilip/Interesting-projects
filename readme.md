@@ -41,6 +41,8 @@ ___
 
 [Loading spinners](https://github.com/fernandoleonid/spinnerloader)
 
+[Loading Spinners 2](http://demo.htmleaf.com/1507/201507201704/)
+
 [Checkboxes](https://github.com/hunzaboy/CSS-Checkbox-Library)
 
 [Interactive Particles Generator](https://www.cssscript.com/ts-particles/)
