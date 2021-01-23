@@ -76,6 +76,9 @@ ___
 
 [Option Pattern C#](https://docs.microsoft.com/en-us/aspnet/core/fundamentals/configuration/options?view=aspnetcore-5.0)
 
+## For watch
+[C# parallel locking basics](https://www.youtube.com/watch?v=5Zv8fF-KPrE)
+
 #### Misc
 
 [Bitmap generator](https://github.com/mxgmn/WaveFunctionCollapse)
