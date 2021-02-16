@@ -76,6 +76,8 @@ ___
 
 [Option Pattern C#](https://docs.microsoft.com/en-us/aspnet/core/fundamentals/configuration/options?view=aspnetcore-5.0)
 
+[Useful JS reminders](https://github.com/ayatoullah/javascript-interview-questions-1)
+
 ## For watch
 [C# parallel locking basics](https://www.youtube.com/watch?v=5Zv8fF-KPrE)
 
