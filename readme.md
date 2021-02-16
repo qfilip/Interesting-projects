@@ -3,84 +3,84 @@ ___
 
 ### Useful for dev
 
-[John Skeet DateTime Library](https://www.nodatime.org)
+| 01.|[John Skeet DateTime Library](https://www.nodatime.org)
 
-[RamdaJs - Functional Js library](https://ramdajs.com)
+| 02.|[RamdaJs - Functional Js library](https://ramdajs.com)
 
 ### A collection of interesting links
 
-[Web tuts collection](https://tympanus.net/Development/ModalWindowEffects/)
+| 01.|[Web tuts collection](https://tympanus.net/Development/ModalWindowEffects/)
 
-[CQRS-EventSourcing demos](https://github.com/asc-lab/dotnet-cqrs-intro)
+| 02.|[CQRS-EventSourcing demos](https://github.com/asc-lab/dotnet-cqrs-intro)
 
-[YouTube Converter](https://loader.to)
+| 03.|[YouTube Converter](https://loader.to)
 
-[openSuse Color palette](https://opensuse.herokuapp.com/colors)
+| 04.|[openSuse Color palette](https://opensuse.herokuapp.com/colors)
 
-[ASCII Text Generator](http://patorjk.com/software/taag/#p=display&f=Graffiti&t=Type%20Something%20)
+| 05.|[ASCII Text Generator](http://patorjk.com/software/taag/#p=display&f=Graffiti&t=Type%20Something%20)
 
-[Peek, gif recorder for GNU/Linux](https://software.opensuse.org/package/peek)
+| 06.|[Peek, gif recorder for GNU/Linux](https://software.opensuse.org/package/peek)
 
-[Cool icon set](https://rvklein.me/proj/ideogramma/#showicon--num-frequency)
+| 07.|[Cool icon set](https://rvklein.me/proj/ideogramma/#showicon--num-frequency)
 
-[Frontend Stuff](https://www.cssscript.com)
+| 08.|[Frontend Stuff](https://www.cssscript.com)
 
 ### Sane/Insane CSS frameworks
 
-[Skeuos](https://drasite.com/skeuos-css)
+| 01.|[Skeuos](https://drasite.com/skeuos-css)
 
-[Bootstrap 386](https://github.com/kristopolous/BOOTSTRA.386)
+| 02.|[Bootstrap 386](https://github.com/kristopolous/BOOTSTRA.386)
 
-[Neumorphic Bootstrap](https://github.com/ChemaAlfonso/neumorph.scss)
+| 03.|[Neumorphic Bootstrap](https://github.com/ChemaAlfonso/neumorph.scss)
 
-[NES CSS](https://nostalgic-css.github.io/NES.css/)
+| 04.|[NES CSS](https://nostalgic-css.github.io/NES.css/)
 
-[Win98](https://jdan.github.io/98.css/#button)
+| 05.|[Win98](https://jdan.github.io/98.css/#button)
 
 ### Design helpers
 
-[Loading spinners](https://github.com/fernandoleonid/spinnerloader)
+| 01.|[Loading spinners](https://github.com/fernandoleonid/spinnerloader)
 
-[Loading Spinners 2](http://demo.htmleaf.com/1507/201507201704/)
+| 02.|[Loading Spinners 2](http://demo.htmleaf.com/1507/201507201704/)
 
-[Checkboxes](https://github.com/hunzaboy/CSS-Checkbox-Library)
+| 03.|[Checkboxes](https://github.com/hunzaboy/CSS-Checkbox-Library)
 
-[Interactive Particles Generator](https://www.cssscript.com/ts-particles/)
+| 04.|[Interactive Particles Generator](https://www.cssscript.com/ts-particles/)
 
-[CSS Stacking Context](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Positioning/Understanding_z_index/The_stacking_context)
+| 05.|[CSS Stacking Context](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Positioning/Understanding_z_index/The_stacking_context)
 
 ### Tutorial Sites
 
-[Angular development](https://nx.dev/angular/tutorial/01-create-application)
+| 01.|[Angular development](https://nx.dev/angular/tutorial/01-create-application)
 
-[Flavio](https://flaviocopes.com)
+| 02.|[Flavio](https://flaviocopes.com)
 
-[Clubmate](https://clubmate.fi)
+| 03.|[Clubmate](https://clubmate.fi)
 
-[F# tuts](https://bradcollins.com/page/4/?s=F%23)
+| 04.|[F# tuts](https://bradcollins.com/page/4/?s=F%23)
 
-[Tutorials on Web Security mostly in .NET Core](https://jasonwatmore.com)
+| 05.|[Tutorials on Web Security mostly in .NET Core](https://jasonwatmore.com)
 
-[Reflection quick refresher](https://garywoodfine.com/get-c-classes-implementing-interface/)
+| 06.|[Reflection quick refresher](https://garywoodfine.com/get-c-classes-implementing-interface/)
 
-[F# webapi AspNetCore 2.2](https://codeburst.io/creating-a-f-data-layer-using-entity-framework-core-746ec17d49e5)
+| 07.|[F# webapi AspNetCore 2.2](https://codeburst.io/creating-a-f-data-layer-using-entity-framework-core-746ec17d49e5)
 
-[Tons of tutorials on various subjects](https://www.javatpoint.com)
+| 08.|[Tons of tutorials on various subjects](https://www.javatpoint.com)
 
 #### To read
-[MS Azure Exams](https://docs.microsoft.com/en-us/learn/certifications/exams/az-204)
+| 01.|[MS Azure Exams](https://docs.microsoft.com/en-us/learn/certifications/exams/az-204)
 
-[Stop event firing, Angular](https://engineering.datorama.com/be-aware-of-the-debounce-decorator-6fb24a6d8d5)
+| 02.|[Stop event firing, Angular](https://engineering.datorama.com/be-aware-of-the-debounce-decorator-6fb24a6d8d5)
 
-[Fold functions](https://sidburn.github.io/blog/2017/03/19/understanding-fold)
+| 03.|[Fold functions](https://sidburn.github.io/blog/2017/03/19/understanding-fold)
 
-[Option Pattern C#](https://docs.microsoft.com/en-us/aspnet/core/fundamentals/configuration/options?view=aspnetcore-5.0)
+| 04.|[Option Pattern C#](https://docs.microsoft.com/en-us/aspnet/core/fundamentals/configuration/options?view=aspnetcore-5.0)
 
-[Useful JS reminders](https://github.com/ayatoullah/javascript-interview-questions-1)
+| 05.|[Useful JS reminders](https://github.com/ayatoullah/javascript-interview-questions-1)
 
 ## For watch
-[C# parallel locking basics](https://www.youtube.com/watch?v=5Zv8fF-KPrE)
+| 01.|[C# parallel locking basics](https://www.youtube.com/watch?v=5Zv8fF-KPrE)
 
 #### Misc
 
-[Bitmap generator](https://github.com/mxgmn/WaveFunctionCollapse)
+| 01.|[Bitmap generator](https://github.com/mxgmn/WaveFunctionCollapse)
