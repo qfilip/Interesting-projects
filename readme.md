@@ -63,7 +63,6 @@ ___
 | 04.|[Option Pattern C#](https://docs.microsoft.com/en-us/aspnet/core/fundamentals/configuration/options?view=aspnetcore-5.0)|
 | 05.|[Useful JS reminders](https://github.com/ayatoullah/javascript-interview-questions-1)|
 
-## For watch
 <br>
 
 |#| For watch|
