@@ -39,6 +39,7 @@ ___
 | 03.|[Checkboxes](https://github.com/hunzaboy/CSS-Checkbox-Library)|
 | 04.|[Interactive Particles Generator](https://www.cssscript.com/ts-particles/)|
 | 05.|[CSS Stacking Context](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Positioning/Understanding_z_index/The_stacking_context)|
+| 06/|[jQwidgets](https://www.jqwidgets.com/angular/)|
 
 <br>
 
