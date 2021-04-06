@@ -24,12 +24,14 @@ ___
 
 |#| Sane/Insane CSS frameworks|
 |-----|-----------------------|
+| 00.|[Comperhensive List](http://usablica.github.io/front-end-frameworks/compare.html)
 | 01.|[Skeuos](https://drasite.com/skeuos-css)|
 | 02.|[Bootstrap 386](https://github.com/kristopolous/BOOTSTRA.386)|
 | 03.|[Neumorphic Bootstrap](https://github.com/ChemaAlfonso/neumorph.scss)|
 | 04.|[NES CSS](https://nostalgic-css.github.io/NES.css/)|
 | 05.|[Win98](https://jdan.github.io/98.css/#button)|
 | 06.|[RpgCSS](https://github.com/RonenNess/RPGUI)|
+| 07.|[Pandora](https://themes.org.ua/pandora/index.html#dashboard)|
 
 <br>
 
