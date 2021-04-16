@@ -10,7 +10,9 @@ ___
 <br>
 
 |#| Console Rulez!!!|
+|----|--------------|
 | 01.|[Console Tables](https://github.com/khalidabuhakmeh/ConsoleTables)|
+| 02.|[Console Dump](https://github.com/hehuolong/ConsoleDump)|
 
 <br>
 
