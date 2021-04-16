@@ -9,6 +9,11 @@ ___
 
 <br>
 
+|#| Console Rulez!!!|
+| 01.|[Console Tables](https://github.com/khalidabuhakmeh/ConsoleTables)|
+
+<br>
+
 |#| A collection of interesting links|
 |-----|------------------------------|
 | 01.|[Web tuts collection](https://tympanus.net/Development/ModalWindowEffects/)|
