@@ -73,6 +73,7 @@ ___
 | 03.|[Fold functions](https://sidburn.github.io/blog/2017/03/19/understanding-fold)|
 | 04.|[Option Pattern C#](https://docs.microsoft.com/en-us/aspnet/core/fundamentals/configuration/options?view=aspnetcore-5.0)|
 | 05.|[Useful JS reminders](https://github.com/ayatoullah/javascript-interview-questions-1)|
+| 06.|[Async Await, Old school](https://devblogs.microsoft.com/dotnet/configureawait-faq/comment-page-3/#comments)|
 
 <br>
 
