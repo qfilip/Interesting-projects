@@ -33,6 +33,7 @@ ___
 | 06.|[Peek, gif recorder for GNU/Linux](https://software.opensuse.org/package/peek)|
 | 07.|[Cool icon set](https://rvklein.me/proj/ideogramma/#showicon--num-frequency)|
 | 08.|[Frontend Stuff](https://www.cssscript.com)|
+| 09.|[Unicode list](http://xahlee.info/comp/unicode_essays_index.html)|
 
 <br>
 
