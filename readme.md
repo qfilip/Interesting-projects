@@ -20,6 +20,7 @@ ___
 |----|--------------|
 | 01.|[Console Tables](https://github.com/khalidabuhakmeh/ConsoleTables)|
 | 02.|[Console Dump](https://github.com/hehuolong/ConsoleDump)|
+| 03.|[Spectre - C#](https://github.com/spectreconsole/spectre.console)
 
 <br>
 
@@ -57,7 +58,8 @@ ___
 | 03.|[Checkboxes](https://github.com/hunzaboy/CSS-Checkbox-Library)|
 | 04.|[Interactive Particles Generator](https://www.cssscript.com/ts-particles/)|
 | 05.|[CSS Stacking Context](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Positioning/Understanding_z_index/The_stacking_context)|
-| 06/|[jQwidgets](https://www.jqwidgets.com/angular/)|
+| 06.|[jQwidgets](https://www.jqwidgets.com/angular/)|
+| 07.|[Mostly Angular stuff](https://www.akveo.com/blog/top-18-most-popular-angular-open-source-projects-in-2021)|
 
 <br>
 
