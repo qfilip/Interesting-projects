@@ -35,6 +35,7 @@ ___
 | 07.|[Cool icon set](https://rvklein.me/proj/ideogramma/#showicon--num-frequency)|
 | 08.|[Frontend Stuff](https://www.cssscript.com)|
 | 09.|[Unicode list](http://xahlee.info/comp/unicode_essays_index.html)|
+| 10.|[Random building generator](https://github.com/mxgmn/MarkovJunior)
 
 <br>
 
