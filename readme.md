@@ -13,6 +13,7 @@ ___
 |-|-----------|
 | 01.|[Database Gate](https://dbgate.org)|
 | 02.|[Database Diagram](https://dbdiagram.io/home/)|
+| 03.|[Focal Board (kanban desktop)](https://github.com/mattermost/focalboard/releases)
 
 <br>
 
